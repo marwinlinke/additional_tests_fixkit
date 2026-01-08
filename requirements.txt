@@ -167,7 +167,7 @@ scipy==1.14.0
 SecretStorage==3.3.3
 selenium==4.23.1
 Send2Trash==1.8.3
-setuptools==71.1.0
+setuptools==78.1.1
 sflkit==0.2.22
 sflkitlib==0.0.5
 shap==0.46.0
